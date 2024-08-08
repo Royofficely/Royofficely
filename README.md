@@ -38,12 +38,16 @@ Whether you're a startup founder, a corporate executive, or an AI enthusiast, I'
 
 ## 📚 Featured Projects
 
-- [Web-Scraper]: A powerful, recursive URL-smart web scraping tool designed to efficiently collect and organize content from websites. This tool is perfect for developers, researchers, and data enthusiasts who need to extract large amounts of textual data from web pages.
-- [Data Privacy Protector]: Data Privacy Protector is a Python tool designed to replace sensitive information in text with fake data. It utilizes regular expressions to identify and replace various types of sensitive information, such as names, phone numbers, email addresses, and more.
-- [Customizable Dataset Generator]: This project provides a flexible framework for generating synthetic datasets using OpenAI's GPT model. It can be easily adapted to generate various types of text data based on user-defined topics and prompts, with a focus on creating realistic interactions between two roles (e.g., customer and support agent).
-- [Google Tools Agent]: An intelligent agent that seamlessly interacts with Google services, including Gmail and Calendar, while also performing Google searches.
+- [Web-Scraper](https://github.com/Royofficely/Web-Scraper): A powerful, recursive URL-smart web scraping tool designed to efficiently collect and organize content from websites. This tool is perfect for developers, researchers, and data enthusiasts who need to extract large amounts of textual data from web pages.
+
+- [Data Privacy Protector](https://github.com/Royofficely/Data-Privacy-Protector): A Python tool designed to replace sensitive information in text with fake data. It utilizes regular expressions to identify and replace various types of sensitive information, such as names, phone numbers, email addresses, and more.
+
+- [Customizable Dataset Generator](https://github.com/Royofficely/Customizable-Dataset-Generator-using-GPT): This project provides a flexible framework for generating synthetic datasets using OpenAI's GPT model. It can be easily adapted to generate various types of text data based on user-defined topics and prompts, with a focus on creating realistic interactions between two roles (e.g., customer and support agent).
+
+- [Google Tools Agent](https://github.com/Royofficely/Google-Tools-Agent): An intelligent agent that seamlessly interacts with Google services, including Gmail and Calendar, while also performing Google searches.
 
 ---
 
 💡 "Any Process to AI, Access All LLM Models" - Roy @OfficelyAI
+
 ![GitHub Snack](https://officelyfiles.s3.eu-west-1.amazonaws.com/6aee9f5a-7a72-4110-9534-9d6aa3b3c27b.svg)
