@@ -32,9 +32,9 @@ To make powerful AI automation accessible to every business, regardless of size 
 
 Whether you're a startup founder, a corporate executive, or an AI enthusiast, I'm always excited to discuss how AI can transform businesses and industries.
 
-- 📧 Email: [roy@officely.ai]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/officely/]
-- 🐦 Twitter: [@nativ_roy]
+- 📧 Email: [roy@officely.ai](mailto:roy@officely.ai)
+- 🔗 LinkedIn: [linkedin.com/in/officely](https://www.linkedin.com/in/officely/)
+- 🐦 Twitter: [@nativ_roy](https://twitter.com/nativ_roy)
 
 ## 📚 Featured Projects
 
