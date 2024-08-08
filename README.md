@@ -32,20 +32,16 @@ To make powerful AI automation accessible to every business, regardless of size 
 
 Whether you're a startup founder, a corporate executive, or an AI enthusiast, I'm always excited to discuss how AI can transform businesses and industries.
 
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@YourTwitterHandle]
+- 📧 Email: [roy@officely.ai]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/officely/]
+- 🐦 Twitter: [@nativ_roy]
 
 ## 📚 Featured Projects
 
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-- [Project 3]: Brief description
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
+- [Web-Scraper]: A powerful, recursive URL-smart web scraping tool designed to efficiently collect and organize content from websites. This tool is perfect for developers, researchers, and data enthusiasts who need to extract large amounts of textual data from web pages.
+- [Data Privacy Protector]: Data Privacy Protector is a Python tool designed to replace sensitive information in text with fake data. It utilizes regular expressions to identify and replace various types of sensitive information, such as names, phone numbers, email addresses, and more.
+- [Customizable Dataset Generator]: This project provides a flexible framework for generating synthetic datasets using OpenAI's GPT model. It can be easily adapted to generate various types of text data based on user-defined topics and prompts, with a focus on creating realistic interactions between two roles (e.g., customer and support agent).
+- [Google Tools Agent]:An intelligent agent that seamlessly interacts with Google services, including Gmail and Calendar, while also performing Google searches.
 ---
 
-💡 "The future of business is AI-powered, and we're here to lead the way." - Roy
+💡 "Any Process to AI, Access All LLM Models" - Roy @OfficelyAI
