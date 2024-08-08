@@ -46,5 +46,4 @@ Whether you're a startup founder, a corporate executive, or an AI enthusiast, I'
 ---
 
 💡 "Any Process to AI, Access All LLM Models" - Roy @OfficelyAI
-
 ![GitHub Snack](https://officelyfiles.s3.eu-west-1.amazonaws.com/6aee9f5a-7a72-4110-9534-9d6aa3b3c27b.svg)
